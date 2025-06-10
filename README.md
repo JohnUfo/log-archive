@@ -10,6 +10,10 @@ The **Log Archive Tool** is a command-line utility that allows users to compress
 - **Timestamped Archives:** The archive filenames include the date and time of creation (e.g., `logs_archive_YYYYMMDD_HHMMSS.tar.gz`).
 - **Log File:** The tool logs the date and time of each archive to a log file.
 
+## 🚀 Project URL
+
+[https://roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects/log-archive-tool)
+
 ## Requirements
 
 - **Unix-based System** (Linux or macOS)
@@ -20,7 +24,7 @@ The **Log Archive Tool** is a command-line utility that allows users to compress
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/<your-username>/log-archive-tool.git
+    git clone https://github.com/johnUfo/log-archive-tool.git
     cd log-archive-tool
     ```
 
